@@ -1,27 +1,45 @@
 [
   {
+    "full_name": "refinedev/hackathon-jan2023-guidelines",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "DataTalksClub/data-engineering-zoomcamp",
-    "stargazers_count": 8794,
-    "open_issues_count": 60,
-    "forks_count": 1986
+    "stargazers_count": 10606,
+    "open_issues_count": 61,
+    "forks_count": 2263
+  },
+  {
+    "full_name": "justmarkham/scikit-learn-videos",
+    "stargazers_count": 3512,
+    "open_issues_count": 2,
+    "forks_count": 2528
+  },
+  {
+    "full_name": "rahuldkjain/github-profile-readme-generator",
+    "stargazers_count": 14201,
+    "open_issues_count": 262,
+    "forks_count": 3775
   },
   {
     "full_name": "ptyadana/SQL-Data-Analysis-and-Visualization-Projects",
-    "stargazers_count": 541,
+    "stargazers_count": 544,
     "open_issues_count": 1,
-    "forks_count": 294
+    "forks_count": 293
   },
   {
     "full_name": "fonnesbeck/statistical-analysis-python-tutorial",
     "stargazers_count": 1490,
     "open_issues_count": 1,
-    "forks_count": 951
+    "forks_count": 952
   },
   {
     "full_name": "swaroopch/byte-of-python",
-    "stargazers_count": 1982,
+    "stargazers_count": 1983,
     "open_issues_count": 9,
-    "forks_count": 1025
+    "forks_count": 1024
   },
   {
     "full_name": "varun-singh-01/python-concepts",
@@ -31,9 +49,9 @@
   },
   {
     "full_name": "Akuli/python-tutorial",
-    "stargazers_count": 1065,
+    "stargazers_count": 1066,
     "open_issues_count": 8,
-    "forks_count": 545
+    "forks_count": 544
   },
   {
     "full_name": "mkumar7/Data-Analyst-Portfolio",
