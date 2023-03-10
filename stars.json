@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "saucelabs/elemental-next",
+    "stargazers_count": 5,
+    "open_issues_count": 41,
+    "forks_count": 0
+  },
+  {
     "full_name": "refinedev/hackathon-jan2023-guidelines",
     "stargazers_count": 10,
     "open_issues_count": 0,
@@ -7,37 +13,37 @@
   },
   {
     "full_name": "DataTalksClub/data-engineering-zoomcamp",
-    "stargazers_count": 12582,
-    "open_issues_count": 47,
-    "forks_count": 2833
+    "stargazers_count": 12698,
+    "open_issues_count": 51,
+    "forks_count": 2859
   },
   {
     "full_name": "justmarkham/scikit-learn-videos",
-    "stargazers_count": 3532,
+    "stargazers_count": 3531,
     "open_issues_count": 2,
     "forks_count": 2536
   },
   {
     "full_name": "rahuldkjain/github-profile-readme-generator",
-    "stargazers_count": 14748,
+    "stargazers_count": 14792,
     "open_issues_count": 269,
-    "forks_count": 3963
+    "forks_count": 3980
   },
   {
     "full_name": "ptyadana/SQL-Data-Analysis-and-Visualization-Projects",
-    "stargazers_count": 623,
+    "stargazers_count": 627,
     "open_issues_count": 1,
-    "forks_count": 310
+    "forks_count": 312
   },
   {
     "full_name": "fonnesbeck/statistical-analysis-python-tutorial",
-    "stargazers_count": 1503,
+    "stargazers_count": 1502,
     "open_issues_count": 1,
-    "forks_count": 950
+    "forks_count": 951
   },
   {
     "full_name": "swaroopch/byte-of-python",
-    "stargazers_count": 2018,
+    "stargazers_count": 2021,
     "open_issues_count": 10,
     "forks_count": 1033
   },
@@ -50,12 +56,12 @@
   {
     "full_name": "Akuli/python-tutorial",
     "stargazers_count": 1093,
-    "open_issues_count": 9,
-    "forks_count": 548
+    "open_issues_count": 8,
+    "forks_count": 550
   },
   {
     "full_name": "mkumar7/Data-Analyst-Portfolio",
-    "stargazers_count": 61,
+    "stargazers_count": 62,
     "open_issues_count": 0,
     "forks_count": 23
   },
@@ -63,6 +69,6 @@
     "full_name": "nktnlx/data_analysis_portfolio",
     "stargazers_count": 72,
     "open_issues_count": 0,
-    "forks_count": 15
+    "forks_count": 16
   }
 ]
