@@ -2,7 +2,7 @@
   {
     "full_name": "saucelabs/elemental-next",
     "stargazers_count": 5,
-    "open_issues_count": 62,
+    "open_issues_count": 56,
     "forks_count": 0
   },
   {
@@ -13,37 +13,37 @@
   },
   {
     "full_name": "DataTalksClub/data-engineering-zoomcamp",
-    "stargazers_count": 13126,
+    "stargazers_count": 13164,
     "open_issues_count": 45,
-    "forks_count": 2970
+    "forks_count": 2986
   },
   {
     "full_name": "justmarkham/scikit-learn-videos",
-    "stargazers_count": 3542,
+    "stargazers_count": 3544,
     "open_issues_count": 2,
     "forks_count": 2545
   },
   {
     "full_name": "rahuldkjain/github-profile-readme-generator",
-    "stargazers_count": 15261,
-    "open_issues_count": 277,
-    "forks_count": 4152
+    "stargazers_count": 15311,
+    "open_issues_count": 278,
+    "forks_count": 4171
   },
   {
     "full_name": "ptyadana/SQL-Data-Analysis-and-Visualization-Projects",
-    "stargazers_count": 683,
+    "stargazers_count": 687,
     "open_issues_count": 1,
-    "forks_count": 343
+    "forks_count": 344
   },
   {
     "full_name": "fonnesbeck/statistical-analysis-python-tutorial",
-    "stargazers_count": 1508,
+    "stargazers_count": 1509,
     "open_issues_count": 1,
     "forks_count": 953
   },
   {
     "full_name": "swaroopch/byte-of-python",
-    "stargazers_count": 2039,
+    "stargazers_count": 2041,
     "open_issues_count": 10,
     "forks_count": 1033
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "Akuli/python-tutorial",
-    "stargazers_count": 1113,
-    "open_issues_count": 7,
-    "forks_count": 556
+    "stargazers_count": 1117,
+    "open_issues_count": 6,
+    "forks_count": 554
   },
   {
     "full_name": "mkumar7/Data-Analyst-Portfolio",
@@ -69,6 +69,6 @@
     "full_name": "nktnlx/data_analysis_portfolio",
     "stargazers_count": 83,
     "open_issues_count": 0,
-    "forks_count": 21
+    "forks_count": 22
   }
 ]
